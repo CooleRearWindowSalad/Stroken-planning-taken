@@ -2,20 +2,44 @@
 
 > **Hoofdvraag:** Hoe kunnen de widgets van het Mobile Dashboard aangepast worden zodat zij Team Mobile betrouwbare informatie bieden ter ondersteuning van de dagelijkse werkzaamheden?
 
+# 📚 Inhoudsopgave
+
+- [Inleiding](#inleiding)
+- [Plan van Aanpak](#plan-van-aanpak)
+  - [Oriëntatie](#oriëntatie)
+  - [Stakeholderinterviews](#stakeholderinterviews)
+  - [Probleemanalyse](#probleemanalyse)
+  - [Hoofd- & deelvragen](#hoofd--deelvragen)
+  - [Begripsomschrijvingen](#begripsomschrijvingen)
+  - [Onderzoeksaanpak](#onderzoeksaanpak)
+- [Gegevensverzameling](#gegevensverzameling)
+  - [Interviewvoorbereiding](#interviewvoorbereiding)
+  - [Interviews afnemen](#interviews-afnemen)
+  - [Deskresearch](#deskresearch)
+- [Analyse](#analyse)
+  - [Kwalitatieve analyse](#kwalitatieve-analyse)
+  - [Kwantitatieve analyse](#kwantitatieve-analyse)
+  - [Beantwoording deelvragen](#beantwoording-deelvragen)
+- [Resultaten](#resultaten)
+- [Conclusie](#conclusie)
+- [Aanbevelingen](#aanbevelingen)
+- [Bronnenlijst](#bronnenlijst)
+``
 ---
 
 ## Plan van Aanpak
 
 ### Oriëntatie
-- [ ] Stagebedrijf en afdeling (Team Mobile) in kaart gebracht
+- [ ] Stagebedrijf en afdeling in kaart gebracht
 - [ ] Bestaande documentatie over het dashboard doorgenomen
-- [ ] Interne richtlijnen voor widgets gevonden en gelezen (`L:\PROJECT\Mobile\Documentatie\...`)
+- [ ] Opdracht op DLO gelezen
 
 ### Stakeholder interviews (probleemanalyse)
 - [ ] Interviewvragen opgesteld op basis van de 6W-formule (Wat, Aanleiding, Wie, Wanneer, Waarom, Waar)
 - [ ] Interview afgenomen met stakeholder 1
 - [ ] Interview afgenomen met stakeholder 2
 - [ ] Interview afgenomen met stakeholder 3
+- [ ] Interview afgenomen met stakeholder 4
 - [ ] Korte verslagen gemaakt van elk interview
 
 ### Probleemanalyse
@@ -36,7 +60,6 @@
 ### Begripsomschrijving
 - [ ] Mobile Dashboard gedefinieerd
 - [ ] Widget gedefinieerd
-- [ ] Betrouwbaarheid gedefinieerd
 - [ ] Build gedefinieerd
 - [ ] Release gedefinieerd
 - [ ] Sif (change request) gedefinieerd
@@ -59,17 +82,15 @@
 
 ### Interviews voorbereiden
 - [ ] Interviewvragen uitgewerkt per deelvraag
-- [ ] Respondenten geselecteerd (verschillende rollen binnen Team Mobile)
+- [ ] Respondenten geselecteerd
 - [ ] Afspraken ingepland
 
 ### Interviews afnemen
-- [ ] Interview 1 afgenomen en uitgewerkt
-- [ ] Interview 2 afgenomen en uitgewerkt
-- [ ] Interview 3 afgenomen en uitgewerkt
+- [ ] Interviews afgenomen en uitgewerkt
 - [ ] Interviewverslagen opgeslagen als bijlage
 
 ### Deskresearch
-- [ ] Interne richtlijnen voor widgets geanalyseerd
+- [ ] Interne richtlijnen geanalyseerd
 - [ ] Technische documentatie van bestaande widgets doorgenomen
 - [ ] Zoektermen en bronnen gedocumenteerd
 - [ ] Relevante bronnen opgeslagen in bronnenlijst
@@ -149,7 +170,7 @@
 
 ---
 
-## 📎 Bijlagen (optioneel)
+## Bijlagen (optioneel)
 - [ ] Interviewverslagen toegevoegd als bijlage
 - [ ] Strokenplanning toegevoegd als bijlage
 - [ ] Gebruik van AI-tools gedocumenteerd
