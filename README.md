@@ -4,7 +4,7 @@
 
 ---
 
-## 📁 Fase 1 – Plan van Aanpak
+## Plan van Aanpak
 
 ### Oriëntatie
 - [ ] Stagebedrijf en afdeling (Team Mobile) in kaart gebracht
@@ -51,11 +51,11 @@
 ### Feedback & inleveren
 - [ ] Plan van Aanpak ingeleverd bij stagedocent
 - [ ] Feedback ontvangen en verwerkt
-- [ ] ✅ **Plan van Aanpak definitief ingeleverd (week 5/6)**
+- [ ] **Plan van Aanpak definitief ingeleverd (week 5/6)**
 
 ---
 
-## 📁 Fase 2 – Gegevens verzamelen
+## Gegevens verzamelen
 
 ### Interviews voorbereiden
 - [ ] Interviewvragen uitgewerkt per deelvraag
@@ -76,7 +76,7 @@
 
 ---
 
-## 📁 Fase 3 – Analyseren
+## Analyseren
 
 ### Kwalitatieve analyse
 - [ ] Alle interviewantwoorden per vraag naast elkaar gezet
@@ -100,7 +100,7 @@
 
 ---
 
-## 📁 Fase 4 – Schrijven
+## Schrijven
 
 ### Rapportstructuur
 - [ ] Titelpagina ingevuld (naam, studentnummer, klas, datum)
@@ -138,14 +138,14 @@
 
 ---
 
-## 📁 Fase 5 – Revisie & Feedback
+## Revisie & Feedback
 
 - [ ] Conceptrapport ingeleverd bij stagedocent
 - [ ] Feedback ontvangen en verwerkt
 - [ ] Spelling en grammatica gecontroleerd
 - [ ] Opmaak consistent (lettertype, koppen, witruimte)
 - [ ] Inhoudsopgave bijgewerkt na laatste wijzigingen
-- [ ] ✅ **Eindrapport definitief ingeleverd (week 14)**
+- [ ] **Eindrapport definitief ingeleverd (week 14)**
 
 ---
 
@@ -156,7 +156,7 @@
 
 ---
 
-## 📌 Handige links
+## Handige links
 - Beoordelingsformulier stage HBO-ICT (brightspace)
 - Rubric inleiding (brightspace)
 - DOT-framework onderzoeksmethoden (brightspace)
